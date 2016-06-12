@@ -1,0 +1,6 @@
+name: PlayerVaultsDupePatch
+main: net.terrocidepvp.playervaultsdupepatch.PlayerVaultsDupePatch
+version: 1.0.0
+author: Terrobility
+description: "Patches a critical dupe bug with PlayerVaults."
+website: https://terrocidepvp.net/
